@@ -34,9 +34,4 @@ class SecondScreenView: UIViewController {
         button.dropDownOptions = ["Blue", "Green", "Magenta", "White", "Black", "Pink"]
         
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
 }
