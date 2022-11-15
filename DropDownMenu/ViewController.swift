@@ -28,6 +28,8 @@ class ViewController: UIViewController {
         configureNavbar()
         setupLayout()
         initView()
+        
+        configureNavBarItems()
     }
     
     private func initView() {
